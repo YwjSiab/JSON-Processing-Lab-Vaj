@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "species": "Lion",
+      "name": "Simba",
+      "age": 5
+    },
+    {
+      "id": 2,
+      "species": "Elephant",
+      "name": "Dumbo",
+      "age": 12
+    },
+    {
+      "id": 3,
+      "species": "Penguin",
+      "name": "Skipper",
+      "age": 4
+    }
+  ]
